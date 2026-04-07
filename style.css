@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* seletor de classe */
+.tituloPagina {
+    color: darkred;
+}
+
+/* seletor de ID */
+#titulo {
+    background-color: lightgray;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
